@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <coverage xmlns="http://www.netbeans.org/ns/code-coverage/1" enabled="false"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/SistemaWebCapi/application/views/front/filiales_content.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaWebCapi/application/views/front/eventos_content.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaWebCapi/application/controllers/eventos.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaWebCapi/application/models/eventos_model.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaWebCapi/application/views/admin/login.php</file>
+        </group>
+    </open-files>
+</project-private>
